@@ -9,3 +9,9 @@ D:\data\AthleteAdda\AthleteAdda\AthleteAdda.UI\bin\AthleteAdda.UI.pdb
 D:\data\AthleteAdda\AthleteAdda\AthleteAdda.UI\obj\Debug\AthleteAdda.UI.csprojResolveAssemblyReference.cache
 D:\data\AthleteAdda\AthleteAdda\AthleteAdda.UI\obj\Debug\AthleteAdda.UI.dll
 D:\data\AthleteAdda\AthleteAdda\AthleteAdda.UI\obj\Debug\AthleteAdda.UI.pdb
+D:\data\AthleteAdda\GitRepo\AthleteAdda\AthleteAdda\AthleteAdda.UI\bin\AthleteAdda.UI.dll.config
+D:\data\AthleteAdda\GitRepo\AthleteAdda\AthleteAdda\AthleteAdda.UI\bin\AthleteAdda.UI.dll
+D:\data\AthleteAdda\GitRepo\AthleteAdda\AthleteAdda\AthleteAdda.UI\bin\AthleteAdda.UI.pdb
+D:\data\AthleteAdda\GitRepo\AthleteAdda\AthleteAdda\AthleteAdda.UI\obj\Debug\AthleteAdda.UI.csprojResolveAssemblyReference.cache
+D:\data\AthleteAdda\GitRepo\AthleteAdda\AthleteAdda\AthleteAdda.UI\obj\Debug\AthleteAdda.UI.dll
+D:\data\AthleteAdda\GitRepo\AthleteAdda\AthleteAdda\AthleteAdda.UI\obj\Debug\AthleteAdda.UI.pdb

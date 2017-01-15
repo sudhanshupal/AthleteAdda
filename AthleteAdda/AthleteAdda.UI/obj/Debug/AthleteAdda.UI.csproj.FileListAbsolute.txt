@@ -1,0 +1,11 @@
+D:\data\AthleteAdda\AthleteAdda\HotTowel_SPAAngular.Demo.UI\bin\HotTowel_SPAAngular.Demo.UI.dll.config
+D:\data\AthleteAdda\AthleteAdda\HotTowel_SPAAngular.Demo.UI\bin\HotTowel_SPAAngular.Demo.UI.dll
+D:\data\AthleteAdda\AthleteAdda\HotTowel_SPAAngular.Demo.UI\bin\HotTowel_SPAAngular.Demo.UI.pdb
+D:\data\AthleteAdda\AthleteAdda\HotTowel_SPAAngular.Demo.UI\obj\Debug\HotTowel_SPAAngular.Demo.UI.dll
+D:\data\AthleteAdda\AthleteAdda\HotTowel_SPAAngular.Demo.UI\obj\Debug\HotTowel_SPAAngular.Demo.UI.pdb
+D:\data\AthleteAdda\AthleteAdda\AthleteAdda.UI\bin\AthleteAdda.UI.dll.config
+D:\data\AthleteAdda\AthleteAdda\AthleteAdda.UI\bin\AthleteAdda.UI.dll
+D:\data\AthleteAdda\AthleteAdda\AthleteAdda.UI\bin\AthleteAdda.UI.pdb
+D:\data\AthleteAdda\AthleteAdda\AthleteAdda.UI\obj\Debug\AthleteAdda.UI.csprojResolveAssemblyReference.cache
+D:\data\AthleteAdda\AthleteAdda\AthleteAdda.UI\obj\Debug\AthleteAdda.UI.dll
+D:\data\AthleteAdda\AthleteAdda\AthleteAdda.UI\obj\Debug\AthleteAdda.UI.pdb

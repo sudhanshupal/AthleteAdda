@@ -1,0 +1,12 @@
+C:\Users\trueiory\OneDrive\Blog\Posts\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\bin\HotTowel_SPAAngular.Demo.UI.dll.config
+C:\Users\trueiory\OneDrive\Blog\Posts\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\bin\HotTowel_SPAAngular.Demo.UI.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\bin\HotTowel_SPAAngular.Demo.UI.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\obj\Debug\HotTowel_SPAAngular.Demo.UI.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\obj\Debug\HotTowel_SPAAngular.Demo.UI.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\obj\Debug\HotTowel_SPAAngular.Demo.UI.csprojResolveAssemblyReference.cache
+D:\Ashish\Downloads\HotTowel-SPAAngular.Demo\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\bin\HotTowel_SPAAngular.Demo.UI.dll.config
+D:\Ashish\Downloads\HotTowel-SPAAngular.Demo\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\bin\HotTowel_SPAAngular.Demo.UI.dll
+D:\Ashish\Downloads\HotTowel-SPAAngular.Demo\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\bin\HotTowel_SPAAngular.Demo.UI.pdb
+D:\Ashish\Downloads\HotTowel-SPAAngular.Demo\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\obj\Debug\HotTowel_SPAAngular.Demo.UI.csprojResolveAssemblyReference.cache
+D:\Ashish\Downloads\HotTowel-SPAAngular.Demo\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\obj\Debug\HotTowel_SPAAngular.Demo.UI.dll
+D:\Ashish\Downloads\HotTowel-SPAAngular.Demo\HotTowel-SPAAngular.Demo\HotTowel_SPAAngular.Demo.UI\obj\Debug\HotTowel_SPAAngular.Demo.UI.pdb

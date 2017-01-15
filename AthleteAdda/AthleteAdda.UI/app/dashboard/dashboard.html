@@ -15,7 +15,7 @@
                         <li class="borange">
                             <div class="pull-left"><i class="fa fa-envelope"></i></div>
                             <div class="datas-text pull-right">
-                                <span class="bold">{{vm.messageCount}}</span> Messages
+                                <span class="bold">{{vm.newFeedCount}}</span> Messages
                             </div>
                             <div class="clearfix"></div>
                         </li>
@@ -32,18 +32,16 @@
                             <table class="table table-condensed table-striped">
                                 <thead>
                                     <tr>
-                                        <th>First Name</th>
-                                        <th>Last Name</th>
-                                        <th>Age</th>
-                                        <th>Location</th>
+                                        <th>Date</th>
+                                        <th>Content</th>
+                                      
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr data-ng-repeat="p in vm.people">
-                                        <td>{{p.FirstName}}</td>
-                                        <td>{{p.LastName}}</td>
-                                        <td>{{p.Age}}</td>
-                                        <td>{{p.Responsibility}}</td>
+                                    <tr data-ng-repeat="p in vm.newFeeds">
+                                        <td>{{p.Datetime}}</td>
+                                        <td>{{p.Content}}</td>
+                                       
                                     </tr>
                                 </tbody>
                             </table>
